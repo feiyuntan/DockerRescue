@@ -1,2 +1,1 @@
-镜像地址1
-镜像地址2
+https://cr.gitool.cn:6443/api?image_names=librespeed/speedtest
